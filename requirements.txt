@@ -1,0 +1,8 @@
+Cython @ file:///buildstream/freedesktop-sdk/components/cython.bst
+Mako @ file:///buildstream/freedesktop-sdk/components/python3-mako.bst
+Markdown @ file:///buildstream/freedesktop-sdk/components/python3-markdown.bst
+MarkupSafe==2.1.1
+meson @ file:///buildstream/freedesktop-sdk/components/meson.bst
+numpy==1.23.0
+Pygments==2.11.2
+six==1.16.0
